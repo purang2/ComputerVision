@@ -1,2 +1,2 @@
 # ComputerVision
-A repository for uploading studied materials and ideas of term-project from my brain
+A repository for uploading studied materials (notes) and ideas of term-project from my brain
