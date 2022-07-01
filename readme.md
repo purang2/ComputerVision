@@ -37,6 +37,23 @@ diffusion implicit models. arXiv preprint arXiv:2010.02502,
 
 Classifier Guidence: Dhariwai'21
 
+위 classifier 없이 어떻게 guidance할 것인지 (Implicit Classififer)
+
+
+### 성공적 사례
+
+super resolution 분야에 diffusion을 적용함 
+
+clip을 요구 : glide, dall:e
+clip: 자연어 처리와 영상 처리 인코더의 호환되는 임베딩 스페이스를 학습하는 기법 
+
+GLIDE: Diffusion (디코더)+ CLIP (인코더)
+DALLE-2: 위와 비슷, 다른 방식을 적용 
+
+음성합성 분야에 적용: diffwave, diff-dss
+
+
+
 
 
 
