@@ -40,7 +40,9 @@ Classifier Guidence: Dhariwai'21
 위 classifier 없이 어떻게 guidance할 것인지 (Implicit Classififer)
 
 
-### 성공적 사례
+
+
+### Diffusion의 대표적 적용 사례
 
 super resolution 분야에 diffusion을 적용함 
 
